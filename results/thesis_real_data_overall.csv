@@ -1,0 +1,3 @@
+method,n,brier,auc
+MI prediction,5110,0.0424,0.8390
+Sweeping prediction,5110,0.0424,0.8389

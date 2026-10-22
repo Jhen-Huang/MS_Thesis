@@ -1,0 +1,5 @@
+pattern,n,events,event_rate,mean_pred_mi,mean_pred_sweeping,brier_mi,brier_sweeping,auc_mi,auc_sweeping
+p00_complete,3426,180,0.0525,0.0556,0.0555,0.0457,0.0457,0.8217,0.8216
+p01_smoking_missing,1483,29,0.0196,0.0282,0.0283,0.0185,0.0186,0.8754,0.8741
+p10_bmi_missing,140,22,0.1571,0.0835,0.0841,0.1320,0.1315,0.7192,0.7200
+p11_both_missing,61,18,0.2951,0.0875,0.0868,0.2324,0.2319,0.7429,0.7481

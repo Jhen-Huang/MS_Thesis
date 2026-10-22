@@ -1,0 +1,9 @@
+scenario,missing_predictor_effect,W_affects_outcome,W_affects_smoking_missingness,brier_mi,brier_sweeping,auc_mi,auc_sweeping
+A1,weak,no,no,0.0396,0.0396,0.8660,0.8660
+A2,weak,no,yes,0.0396,0.0396,0.8657,0.8661
+B1,strong,no,no,0.0353,0.0350,0.8989,0.9063
+B2,strong,no,yes,0.0350,0.0347,0.9010,0.9077
+C1,weak,yes,no,0.0424,0.0424,0.8184,0.8189
+C2,weak,yes,yes,0.0425,0.0424,0.8188,0.8193
+D1,strong,yes,no,0.0402,0.0390,0.8289,0.8688
+D2,strong,yes,yes,0.0403,0.0390,0.8217,0.8733
